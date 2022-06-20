@@ -2,8 +2,8 @@
 const shapeClass = reuire('./shape');
 // declare class
 class Circle extends shapeClass{
-    calculateArea(length){
-        return this.length * this.length;
+    calculateArea(){
+        transform = 5;
     };
 }
 // export class using module.exports

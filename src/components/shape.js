@@ -1,11 +1,10 @@
 // declare class
 class Shape{
     drawShape(height,width){
-        this.height = height;
-        this.width = width;
+        transform = 10;
     };
     calculateArea(height,width){
-        return this.height * this.width;
+        transform = 10;
     };
      color = "red";
 }
