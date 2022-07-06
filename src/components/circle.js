@@ -2,10 +2,10 @@
 ShapeClass = require('./shape');
 // declare class
 class Circle extends ShapeClass{
-    constructor(){
+//     constructor(){
 
-    this.transform = 5;
-    }
+//     this.transform = 5;
+//     }
     calculateArea(){
        
     };   
