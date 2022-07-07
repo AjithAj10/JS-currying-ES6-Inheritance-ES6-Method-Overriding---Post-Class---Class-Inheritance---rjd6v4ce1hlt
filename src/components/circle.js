@@ -12,4 +12,4 @@ class Circle extends Shape{
     };   
 }
 // export class using module.exports
-module.export = Circle;
+module.exports = Circle;
